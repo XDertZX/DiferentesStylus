@@ -148,7 +148,7 @@ por esto:
 
 ## Otras cosas útiles
 
-**Quitar la intro con el texto "музыка"** (YouTube Music): borra el bloque que empieza en `/* ---------- Intro al cargar ---------- */`, incluyendo su `@keyframes swipe`.
+**Quitar la intro con el texto "музыка"** (YouTube Music): borra el bloque que empieza en la linea 492, incluyendo su `@keyframes swipe`.
 
 **Hacer el fondo más oscuro o más claro:**
 - YouTube: en `html::before`, cambia el `0.35` de `rgba(0, 0, 0, 0.35)`.
